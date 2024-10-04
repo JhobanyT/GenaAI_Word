@@ -28,7 +28,7 @@ Verificar las dependencias instaladas
 
 3. **Tener Postman y Sigue los siguiente pasos**
 
-- Crear un nuevo request de tipo POST
+- Crear un nuevo request de tipo POST CON LA URT (http://127.0.0.1:5000/generate_word)
 - direccionar se Body > raw y pegar lo siguiente
 - {
     "malla_curricular": "Asignatura: Programación Avanzada. Temas cubiertos: estructuras de datos, algoritmos complejos, y diseño orientado a objetos.",
